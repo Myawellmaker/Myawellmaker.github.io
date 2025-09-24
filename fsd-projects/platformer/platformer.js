@@ -41,16 +41,7 @@ createPlatform(300,500,120,10, "purple", 200,600,2,420,560,1)
 
 createPlatform(800,450,100,10,"teal", null, 0, 350, 650,2);
 
- 
-//createCollectable("type", xPos, yPos, gravity?, bounce? Between 0-1, minX = null, maxX = null, speed = 1)
-//"type" can be 6 things... database diamond grace kennedi max steve
-createCollectable("database," 400, 400)
 
-
-    // TODO 4 - Create Cannons
-//createCannon("wall", pos, secondsX1000, width, height)
-createCannon("top", 450, 3000)
-creatCannon("top, 1100, 2000, 100,100")
 
 
     
